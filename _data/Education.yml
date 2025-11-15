@@ -2,17 +2,19 @@ subject: Education
 listing-order: 1
 icon: "/assets/img/graduation-cap.svg"
 contents:
-  - title: Farvard University, PhD in Computer Science
+  - title: University of Cincinnati, Cincinnati, OH
+    Bachelors of Science, Mechanical Engineering
+    grade: **GPA**: '3.946/4.000'
     description:
-      - Design of a method to build a probabilistic generative model
-      - Development of model calibration algorithm for cross-domain few-shot learning
-    date: Mar. 2019 - Aug. 2023
-  - title: Stanfort University, MA in Computer Science
+      - Founder of UC VEX U Robotics Club
+      - Steel Bridge Competition Team Member
+      - American Society of Mechanical Engineers Member
+    date: Aug. 2024 - May 2029
+  - title: Brecskville-Broadview Heights High School, Broadview Heights, OH
     description:
-      - Development of deep learning algorithms for automatically tracking the facial expressions
-      - Optimizing parameter efficient fine tuning for fairness in medical image analysis
-    grade: "**GPA**: `4.1/4.3`"
-    date: Mar. 2014 - Feb. 2016
-  - title: Kambridge University, BA in Electronic Engineering
-    grade: "**GPA**: `3.9/4.3`"
-    date: Mar. 2010 - Feb. 2014
+      - International Robotics Honors Society President
+      - National Honors Society Member
+      - Robotics Team Captain, Team 2011A
+      - Wind Ensemble First Chair Euphonium
+    grade: "**GPA**: `3.900/4.000`"
+    date: Aug. 2020 - May 2024
