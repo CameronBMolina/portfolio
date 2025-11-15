@@ -2,21 +2,17 @@ subject: Experiences
 listing-order: 2
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: Nanosoft
-    role: Project Manager
+  - title: GPD Group, Akron, OH
+    role: Civil Engineering Roadway Co-op
     description:
-      - Led development of a new chatbot software utilizing large language model
-      - Co-designer of '*Kopilot*' and '*Gemmini*'
-    date: Jan. 2024 - Ongoing
-  - title: Amazone
-    role: Senior Software Engineer
+      - Completed drafting tasks on roadway projects by attaching necessary information, labeling objects, and providing legends so that the plans can be easily understood.
+      - Quantified objects in drawings to help create an accurate estimate of total project cost.
+      - Expanded workplace knowledge and networked with engineers in many different fields.
+    date: Aug. 2025 - Dec. 2025
+  - title: Country Maid Ice Cream, Richfield, OH
+    role: Ice Cream Scooper
     description: 
-      - Built a Java microservice, database schema to manage customer accounts
-      - Enhanced internal pipelines to query real-time data from client devices
-    date: Apr. 2016 - Dec. 2018
-  - title: Pacebook
-    role: Software Engineer Intern
-    description: 
-      - Designed the dynamic website using React for data visualization
-      - Integrated '*Yolo*' to boost the accuracy of the object detection
-    date: Jul. 2013 - Sep. 2013
+      - Provided excellent customer service to patrons quickly and efficiently.
+      - Restocked toppings, ice cream, and dishes when stock depleted and helped new workers hone skills.
+      - Maintained a clean work environment by taking out the trash and sterilizing scoops.
+    date: May 2022 - Aug. 2025
