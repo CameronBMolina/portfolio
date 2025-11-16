@@ -3,14 +3,7 @@ listing-order: 6
 icon: "/assets/img/screwdriver-wrench.svg"
 contents:
   - title: Computer Applications
-    description: "
-      /resources/svgs/iconie/autodesk-fusion-360-icon.svg
-      /resources/svgs/iconie/autodesk-civil-3d-icon.svg
-      /resources/svgs/iconie/microsoft-excel-icon.svg
-      /resources/svgs/iconie/microsoft-word-icon.svg
-      /resources/svgs/iconie/microsoft-powerpoint-icon.svg
-      /resources/svgs/iconie/visual-studio-code-icon.svg
-      "
+    description: "/resources/svgs/iconie/autodesk-fusion-360-icon.svg"
   - title: Programming Languages
     description: "
       /resources/svgs/iconie/c.svg
