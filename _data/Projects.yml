@@ -10,3 +10,13 @@ contents:
     image: "![](https://i.ibb.co/Lz4MzdJT/IMG-6043-1.webp)
           ![](https://i.ibb.co/3Y7J6q43/IMG-6050-1.webp)"
     date: Sep. 2025 - Nov. 2025
+  - title: Lego Robot
+    description: "Description:" In Engineering Design Thinking II students were tasked with making lego robots that could follow a line, pick up and place a box in a specific location. 
+    subtitle: For line tracking capabilities, my robot used two color sensors and a PD loop. The loop would take the sum of both sensors and compare that to the individual sensors. If the left sensor was reading black and the right white, the code would return a value that would turn the robot towards the line and then compare again after finish that run through of the loop.
+    image: "![](https://i.ibb.co/pj6y8f6w/Picture1-1.webp)"
+    date: Jan. 2025 - Apr. 2025
+  - title: Simple Writing Tablet
+    description: "Description:" At the University of Cincinnati all students take a class called Engineering Design Thinking in which they are tasked with developing a product that will help struggling communities. 
+    subtitle: My group chose to create a simple writing tablet to help the low literacy rates in the country of Nigeria. We used the design process and made a physical prototype that was somewhat functional. It consisted of a metal frame, sand, and clear polyvinyl chloride. To use the tablet, you would take a stylus and write as normal and see your writing in the sand. To erase your writing you would shake until the sand flattened.
+    image: "![](https://i.ibb.co/YBmyksGC/Picture1.webp)"
+    date: Aug. 2024- Dec. 2024
