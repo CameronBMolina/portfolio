@@ -3,10 +3,17 @@ listing-order: 3
 icon: "/assets/img/clipboard-list.svg"
 contents:
   - title: UC VEX U Robotics Club
-    role: President, Founder
-    location: University of Cincinnati
+    role: President, Founder, University of Cincinnati
     description: 
     - Created constitution and bylawys for organization and ran efforts to recruit students for our club.
     - Applied for 501(c)(3) status to become eligible for grants and sponsorships.
     - Will use knowledge from high school robotics team and new information gained through classes to design, build, program, and document two competitive robots per season.
     date: Jan. 2025 - Present
+  - title: Competitive Vex Robotics Team
+    role: Captain, Builder, Programmer, Designer, Strategist, Brecksville-Broadview Heights High School
+    description:
+    - Designed, built, programmed, and documented complex systems to complete season-specific tasks.
+    - Collaborated and competed with teams from across the world while overcoming challenges.
+    - Placed in top 16 out of ~10,000 teams 3 years in a row along with earning numerous top judged and performance awards each season.
+    date: Aug. 2020 - May. 2024
+
