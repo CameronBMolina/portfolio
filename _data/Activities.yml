@@ -2,14 +2,14 @@ subject: Activities
 listing-order: 3
 icon: "/assets/img/clipboard-list.svg"
 contents:
-  - title: UC VEX U Robotics Club
-    role: President, Founder, University of Cincinnati
+  - title: UC VEX U Robotics Club - _University of Cincinnati_
+    role: _President, Founder_
     description: In collaboration with other students, including high school robotics alumni, the University of Cincinnati Vex Robotics Club was created. The goal of this club is to enrich problem-solving and teamwork skills by forming a team to design, build, program, and document robots that will compete against teams from across the world in the Vex U Robotics Competition. 
     description2: In order to create this club, the executive board got together to create our constitution and bylaws, as well as applying for 501(c)(3) tax designation. Events were ran to recruit new members and determine interest In the club. Currently, the club is working on acquiring funds for team registration, tools, and parts. 
     description3: For more information on Vex U, visit [https://www.vexrobotics.com/](https://www.vexrobotics.com/)
     date: Jan. 2025 - Present
-  - title: Competitive Vex Robotics Team
-    role: Captain, Builder, Programmer, Designer, Strategist, Brecksville-Broadview Heights High School
+  - title: Competitive Vex Robotics Team - _Brecksville-Broadview Heights High School_
+    role: _Captain, Builder, Programmer, Designer, Strategist_
     description: Designed, built, programmed, and documented complex systems to complete season-specific tasks. Collaborated and competed with teams from across the world while overcoming challenges. Placed in top 16 out of ~10,000 teams 3 years in a row along with earning numerous top judged and performance awards each season.
     date: Aug. 2020 - May. 2024
 
