@@ -1,2 +1,12 @@
+subject: Contact Me
+listing-order: 7
+icon: "/assets/img/phone.svg"
 contents:
-  place
+  - title: Phone Number
+    description: 440-666-6847
+  - title: Email
+    description: cbmolina13@gmail.com
+  - title: LinkedIn
+    description: Cameron Molina
+  - title: Github
+    description: CameronBMolina
