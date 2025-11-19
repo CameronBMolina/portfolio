@@ -34,5 +34,11 @@ contents:
       - The wings were powered with one pneumatic piston each, allowing us to manipulate numerous numbers of triballs in different ways.
       - To elevate the robot, two pistons would activate and fold out a two-stage lift that would slot into the climbing post. When fully aligned, a piston would push two gears in line with the drivetrain allowing the hang to utilize all six drivetrain motors to winch the trays back into position, lifting the robot ~3 feet into the air. This mechanism proved to be crucial in how well we performed at the competition and saw no mechanical issues over its many matches.
     image: "![](https://i.ibb.co/wrph2bK5/Picture1-2.webp)"
+    video: placehold
     heading2: _Coding_
     description4: Matches consist of two main periods – the autonomous period and the driver control period. Since coding and tuning autonomous routines can be time consuming, I developed short-hand statements that streamlined the process and improved the readability of full-length codes. These short-hand statements allowed for complex autonomous routines to be created in minutes, allowing for more time spent tuning rather than writing.
+    image2: placehold
+    video2: placehold
+    heading3: _Strategy_
+    description5: The driver control period is heavily influenced by strategy. In this game, my team helped spearhead the change in strategy from shooting triballs across the field to carrying them across the field one by one. In scenarios where an opposing robot was driving towards you with large amounts of triballs you would try to prevent them from scoring them by either pushing them out of play or stealing them for your use. In the last ten seconds of the match you would try to hang as quickly as possible.
+    video3: placehold
