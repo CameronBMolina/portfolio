@@ -32,7 +32,7 @@ contents:
       - The intake was powered by two 600 rpm motors with a gear ratio of 60:36, providing an output of 1000 rpm. The speed, combined with the wide intake opening, allowed the robot to easily collect triballs from around the field and score efficiently. A one-way trapdoor allowed triballs to be loaded through the top while still letting them rest properly inside the robot.
       - The wings were powered with one pneumatic piston each, allowing the robot to manipulate numerous numbers of triballs in different ways.
       - To elevate the robot, two pistons activated, folding out a two-stage lift. Polycarbonate guides allowed the robot to slot into the climbing post. After alignment, a piston fired to connect a winch to the drivetrain. This allowed the hanging mechanism to use the power of all six drivetrain motors and elevate the robot approximately three feet into the air.. This mechanism proved to be crucial in how well we performed at the competition and it had no mechanical issues over its many matches.
-    image: "![](https://i.ibb.co/wrph2bK5/Picture1-2.webp) ![](https://i.ibb.co/WNdFkcVn/IMG-3986.webp)"
+    image: "![](https://i.ibb.co/wrph2bK5/Picture1-2.webp) ![](https://i.ibb.co/qM4MHKrm/IMG-3986.webp)"
     description4: Examples of our hang can be found in this video
     video: <iframe width="560" height="315" src="https://www.youtube.com/embed/qjerRZkTHuI?si=3vgyvna5rDHboRCu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     heading2: _Coding_
