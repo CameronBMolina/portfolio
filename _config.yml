@@ -4,12 +4,7 @@ icon_img: /assets/img/icon.webp
 
 name: "Cameron Molina"
 job: "Seeking Summer 2026 Co-op"
-
-phone_number: 440-666-6847
-address: Brecksville, Ohio, Unites States
-email: cbmolina13@gmail.com
-linkedin_username: Cameron Molina
-github_username: CameronBMolina
+location: "Brecksville, Ohio, United States
 
 # If your repo name follows the format "<user-name>.github.io", then leave the below blank.
 # Otherwise, set its value as "/<repo-name>". ex) baseurl: /resume
